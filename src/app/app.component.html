@@ -1,0 +1,34 @@
+<igx-navbar class="navbar">
+  <igx-navbar-title class="navbar-content">
+    <h6 class="h6">
+      Rapid Fission Inc.
+    </h6>
+    <button igxButton="flat" igxRipple routerLink="/home" class="button">
+      HOME
+    </button>
+    <button igxButton="flat" igxRipple routerLink="/my-info" class="button">
+      MY INFO
+    </button>
+    <button igxButton="flat" [disabled]="true" igxRipple class="button">
+      PEOPLE
+    </button>
+    <button igxButton="flat" [disabled]="true" igxRipple class="button">
+      MY FILES
+    </button>
+  </igx-navbar-title>
+  <div class="row-layout group"></div>
+  <button igxButton="icon" igxRipple>
+    <igx-icon>
+      notifications
+    </igx-icon>
+  </button>
+  <igx-avatar src="/assets/Avatar6.png" shape="circle" class="avatar"></igx-avatar>
+</igx-navbar>
+<div class="view-container">
+  <router-outlet></router-outlet>
+</div>
+<div class="row-layout footer">
+  <p class="ig-typography__body-2 text">
+    (c) 2020 IndigoDesign Inc.
+  </p>
+</div>
