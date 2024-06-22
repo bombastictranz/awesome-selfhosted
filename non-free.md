@@ -30,6 +30,7 @@
   - [Resource Planning](#resource-planning)
   - [Search Engines](#search-engines)
   - [Self-hosting Solutions](#self-hosting-solutions)
+  - [Software Development - API Management](#software-development---api-management)
   - [Software Development - Low Code](#software-development---low-code)
   - [Software Development - Project Management](#software-development---project-management)
   - [Software Development - Testing](#software-development---testing)
@@ -230,6 +231,13 @@
 - [Unraid](https://www.unraid.net) `⚠` - Linux-based operating system designed to run on home media server setups. `⊘ Proprietary` `Unknown`
 
 
+### Software Development - API Management
+
+**[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
+
+- [Hook0](https://www.hook0.com) - A Webhooks-as-a-service (WaaS) that makes it easy for online products to provide webhooks. Dispatch up to 3,000 events/month with 7 days of history retention for free. ([Source Code](https://gitlab.com/hook0/hook0)) `SSPL-1.0` `Rust/Nodejs/Docker`
+
+
 ### Software Development - Low Code
 
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
@@ -269,10 +277,11 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Deskpro](https://www.deskpro.com/) - On-Premise help desk software that includes email, chat, voice & help centre publishing. Full visible source code and API. `⊘ Proprietary` `Unknown`
+- [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Source Code](https://github.com/erxes/erxes)) `AGPL-3.0/Commons-Clause` `Docker/Nodejs`
 - [Full Help](https://www.fullhelp.com/en/) - Simple, easy to use help desk & knowledge base software. Custom branding, custom themes, restful API, communication channels, multi-company support, multi-language support, and much more! At least 1 new release per month. `⊘ Proprietary` `PHP`
 - [JIRA](https://www.atlassian.com/software/jira) - Professional and extensible issue tracker. `⊘ Proprietary` `Java`
 - [Jitbit Helpdesk](https://www.jitbit.com/helpdesk/) - Self-hosted help desk software - simple but powerful. ([Demo](https://www.jitbit.com/saas-helpdesk/trial/)) `⊘ Proprietary` `.NET`
-- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://demo.supportpal.com/en)) `⊘ Proprietary` `PHP`
+- [SupportPal](https://www.supportpal.com/) - Powerful help desk software - easy, fast and intuitive. ([Demo](https://www.supportpal.com/product/demo)) `⊘ Proprietary` `PHP`
 
 
 ### Time Tracking
